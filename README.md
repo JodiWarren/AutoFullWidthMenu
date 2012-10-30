@@ -8,10 +8,12 @@ It accepts five parameters:
 - usePercent    	Uses percent rather than explicit pixels to set width.
 - hideUntilLoaded Hide the menuSelector element until the script has finished
 
-    fullWidthMenu(Menu Selector (string), Menu Item Selector (string), Margin Width (integer), Use Percent (true/false), Hide Until Loaded(true/false));
+```
+fullWidthMenu(Menu Selector (string), Menu Item Selector (string), Margin Width (integer), Use Percent (true/false), Hide Until Loaded(true/false));
+```
 
 Usage:
 - Include jQuery
 - Include AutoFullWidthMenu
 - Run function, e.g.
-    fullWidthMenu('.nav', 'li', .2564, true, true);
+    ```fullWidthMenu('.nav', 'li', .2564, true, true);
