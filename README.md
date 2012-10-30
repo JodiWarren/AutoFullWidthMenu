@@ -16,4 +16,6 @@ Usage:
 - Include jQuery
 - Include AutoFullWidthMenu
 - Run function, e.g.
-    ```fullWidthMenu('.nav', 'li', .2564, true, true);
+```
+fullWidthMenu('.nav', 'li', .2564, true, true);
+```
